@@ -1,0 +1,66 @@
+[
+    {
+        "verb": "tube",
+        "definition": "To convey or transport something through a tube.",
+        "example": "The water will tube through the pipes to reach the garden.",
+        "options": [
+            "to have",
+            "to be",
+            "to go",
+            "to do"
+        ],
+        "correctAnswer": "to have"
+    },
+    {
+        "verb": "grab",
+        "definition": "To take hold of something suddenly or roughly.",
+        "example": "He will grab the opportunity to learn new skills."
+    },
+    {
+        "verb": "jump",
+        "definition": "To push oneself off the ground and into the air by using the muscles in one's legs and feet.",
+        "example": "She can jump over the puddle without getting wet."
+    },
+    {
+        "verb": "run",
+        "definition": "To move at a speed faster than a walk.",
+        "example": "He likes to run every morning to stay fit."
+    },
+    {
+        "verb": "swim",
+        "definition": "To move through water by using the limbs.",
+        "example": "They will swim in the lake during the summer."
+    },
+    {
+        "verb": "write",
+        "definition": "To mark letters, words, or other symbols on a surface.",
+        "example": "She will write a letter to her friend."
+    },
+    {
+        "verb": "read",
+        "definition": "To look at and comprehend the meaning of written or printed matter.",
+        "example": "He likes to read books before going to bed."
+    },
+    {
+        "verb": "speak",
+        "definition": "To say something in order to convey information or express feelings.",
+        "example": "She will speak at the conference next week."
+    },
+    {
+        "verb": "listen",
+        "definition": "To give attention to sound.",
+        "example": "They will listen to music while studying."
+    },
+    {
+        "verb": "play",
+        "definition": "To engage in activity for enjoyment and recreation.",
+        "example": "The children will play outside after school.",
+        "options": [
+            "jugar",
+            "comer",
+            "dormir",
+            "leer"
+        ],
+        "correctAnswer": "jugar"
+    }
+]

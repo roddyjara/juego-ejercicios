@@ -1,0 +1,7 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html,body { height: 100%; font-family: system-ui, Arial; background: #111; color: #eee; }
+.container { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; }
+canvas { background: #0b6623; image-rendering: pixelated; border: 6px solid #073f14; }
+#hud { display: flex; gap: 12px; align-items: center; }
+button { padding: 6px 10px; border: none; background: #2b8b57; color: #fff; cursor: pointer; border-radius: 4px; }
+button:hover { background: #237047; }

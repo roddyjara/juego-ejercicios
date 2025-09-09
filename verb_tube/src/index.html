@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Verb Tube - Aprende verbos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <header class="header">
+      <h1>Verb Tube</h1>
+      <p class="subtitle">Ejercicios sencillos para aprender verbos (muy poca dificultad).</p>
+    </header>
+
+    <section class="card" id="game">
+      <div class="top-row">
+        <div id="progress" class="progress">Pregunta 0 / 0</div>
+        <div id="score" class="score">Puntaje: 0</div>
+      </div>
+
+      <h2 id="question" class="question">Cargando...</h2>
+
+      <div id="choices" class="choices" role="list"></div>
+
+      <div class="controls">
+        <button id="showBtn" class="btn ghost">Mostrar definición</button>
+        <button id="nextBtn" class="btn primary hidden">Siguiente</button>
+        <button id="newBtn" class="btn">Reiniciar</button>
+      </div>
+
+      <div id="explanation" class="explanation hidden" aria-live="polite">
+        <h3>Explicación</h3>
+        <p id="defText"></p>
+        <p id="exampleText" class="example"></p>
+      </div>
+
+      <footer class="note">
+        Consejo: pulsa A/B/C o 1/2/3 en el teclado para elegir rápido.
+      </footer>
+    </section>
+  </main>
+
+  <script src="game.js" type="module"></script>
+</body>
+</html>
