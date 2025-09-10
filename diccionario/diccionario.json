@@ -1,0 +1,12 @@
+[
+  { "word": "variable", "meaning": "A named storage location in programming." },
+  { "word": "function", "meaning": "A reusable block of code that performs a task." },
+  { "word": "debug", "meaning": "To find and fix errors in code." },
+  { "word": "compile", "meaning": "To convert source code into executable code." },
+  { "word": "array", "meaning": "A collection of elements identified by index." },
+  { "word": "object", "meaning": "An instance of a class containing data and methods." },
+  { "word": "class", "meaning": "A blueprint for creating objects." },
+  { "word": "string", "meaning": "A sequence of characters." },
+  { "word": "loop", "meaning": "A sequence of instructions repeated until a condition is met." },
+  { "word": "network", "meaning": "A group of computers connected together." }
+]
